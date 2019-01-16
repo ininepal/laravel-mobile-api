@@ -1,0 +1,14 @@
+{
+    "name": "ininepal/mobile-api",
+    "description": "The Mobile Application API that can be integrated with laravel applications.",
+    "type": "library",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Aashan Ghimire",
+            "email": "ashan@ininepal.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
